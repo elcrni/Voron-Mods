@@ -1,6 +1,6 @@
-## Important Note:
-
 ### Get premium quality printed parts for your VORON build or mods from [LayerGURU](https://layerguru.com/product-category/voron-design/).
+
+## Important Note:
 
 **This mod works on Trident 300 and 350 builds ONLY**. 250 build simply has no space needed to accomodate the holder and the spool.
 Sliding 8mm linear guides allows for adjustable spool width. Supported spool size is 200mm in diameter and up to max 75mm wide, typical for spools up to 1kg - 1.2kg.
