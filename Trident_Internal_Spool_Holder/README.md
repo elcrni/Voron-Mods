@@ -1,4 +1,4 @@
-### Get premium quality printed parts for your VORON build or mods from [LayerGURU](https://layerguru.com/product-category/voron-design/).
+### Get premium quality printed parts from [LayerGURU](https://layerguru.com/product-category/voron-design/).
 
 ## Important Note:
 
