@@ -33,7 +33,7 @@ STL File naming:
 
 ## Images
 
-![1](/printer_mods/elcrni/Trident_Internal_Spool_Holder/Images/TISP.jpg)
+![1](/Trident_Internal_Spool_Holder/Images/TISP.jpg)
 
 ![1](/printer_mods/elcrni/Trident_Internal_Spool_Holder/Images/1.jpg)
 
