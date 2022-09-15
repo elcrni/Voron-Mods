@@ -1,29 +1,27 @@
 ### Get this mod printed in PCCF from [LayerGURU](https://layerguru.com/product-category/voron-design/).
 
-## Important Note:
+## Orbiter 2.0 Stealthburner mount with CW2 shroud
 
 **This mod works on Trident 300 and 350 builds ONLY**. 250 build simply has no space needed to accomodate the holder and the spool.
 Sliding 8mm linear guides allows for adjustable spool width. Supported spool size is 200mm in diameter and up to max 75mm wide, typical for spools up to 1kg - 1.2kg.
 
 ## Changelog
-08.05.2022.
+15.09.2022.
 Initial Release
-
-20.05.2022.
-Added new PTFE guide with tilted opening that guides the PTFE slightly to the left to prevent sharp bends. Just one lower guide is recommended now with this new top guide.
 
 ## Why?
 
-Over the years i've been getting nicer prints and almost 100% eliminated wet filament ooze by placing the filament spool inside of enclosed chamber. Since my printers work almost 24/7, chambers are always hot enough to keep the filament dry and produce perfect prints.
+Well, why not!? 👍
 
 ## Print Setup
 
-All parts are printed without supports. Recommended material is ABS/ASA. Recommended perimeter count is 4 and 5 top/bottom layers with infil from 30%+. All parts in STL already have correct orientation, just import and print.
+All parts are printed without supports. Recommended material is PCCF, why? Well, if you are printing high temp materials in a heated enclosure, parts should not soften or loosen in any way, PCCF is very stiff, lightweight and will withstand very high temperatures without losing any of its amazing properties. Will it be ok to print it in ABS/ASA, absolutely! but the parts may not last as long as PCCF. Recommended perimeter count is 4 and 5 top/bottom layers with infil from 30%+. All parts in STL already have correct orientation, just import and print.
 
-STL File naming:
-- ..._x2_.stl simply means you need to print 2 parts
+
 
 ## BOM
+
+Pretty much standard hardware as for the stock Stealthburner
 
 - 8x F688zz Flange Radial Ball Bearing 8 x 16mm
 - 2x 8x100mm linear guide
@@ -37,3 +35,27 @@ STL File naming:
 ## Images
 
 ![1](/Orbiter_2.0_SB_CW2_Enclosed/Images/Orbiter_2.0_SB_CW2_Enclosed__006.jpg)
+
+![1](/Orbiter_2.0_SB_CW2_Enclosed/Images/Orbiter_2.0_SB_CW2_Enclosed__007.jpg)
+
+![1](/Orbiter_2.0_SB_CW2_Enclosed/Images/Orbiter_2.0_SB_CW2_Enclosed__008.jpg)
+
+![1](/Orbiter_2.0_SB_CW2_Enclosed/Images/Orbiter_2.0_SB_CW2_Enclosed__009.jpg)
+
+![1](/Orbiter_2.0_SB_CW2_Enclosed/Images/Orbiter_2.0_SB_CW2_Enclosed__010.jpg)
+
+![1](/Orbiter_2.0_SB_CW2_Enclosed/Images/Orbiter_2.0_SB_CW2_Enclosed__011.jpg)
+
+![1](/Orbiter_2.0_SB_CW2_Enclosed/Images/Orbiter_2.0_SB_CW2_Enclosed__012.jpg)
+
+![1](/Orbiter_2.0_SB_CW2_Enclosed/Images/Orbiter_2.0_SB_CW2_Enclosed__001.jpg)
+
+![1](/Orbiter_2.0_SB_CW2_Enclosed/Images/Orbiter_2.0_SB_CW2_Enclosed__003.jpg)
+
+![1](/Orbiter_2.0_SB_CW2_Enclosed/Images/Orbiter_2.0_SB_CW2_Enclosed__004.jpg)
+
+![1](/Orbiter_2.0_SB_CW2_Enclosed/Images/Orbiter_2.0_SB_CW2_Enclosed__005.jpg)
+
+![1](/Orbiter_2.0_SB_CW2_Enclosed/Images/Orbiter_2.0_SB_CW2_Enclosed__002.jpg)
+
+### Get this mod printed in PCCF from [LayerGURU](https://layerguru.com/product-category/voron-design/).
