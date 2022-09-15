@@ -1,4 +1,4 @@
-### Get this mod printed in PCCF from [LayerGURU](https://layerguru.com/product-category/voron-design/).
+### Get this mod printed in PCCF from [LayerGURU](https://layerguru.com/product/voron-stealthburner-orbiter-2-0/).
 
 ## Orbiter 2.0 Stealthburner mount with CW2 shroud
 
@@ -63,4 +63,4 @@ Pretty much standard hardware as for the stock Stealthburner
 
 ![1](/Orbiter_2.0_SB_CW2_Enclosed/Images/Orbiter_2.0_SB_CW2_Enclosed__002.jpg)
 
-### Get this mod printed in PCCF from [LayerGURU](https://layerguru.com/product-category/voron-design/).
+### Get this mod printed in PCCF from [LayerGURU](https://layerguru.com/product/voron-stealthburner-orbiter-2-0/).
