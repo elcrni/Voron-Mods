@@ -6,7 +6,7 @@
 
 **All Stealthburner/CW2 parts have been changed to accomodate Orbiter extruder, meaning that no stock parts can be used for the mount. Hot end mounts and X-Rail carriage did not change, stock parts can be used here.**
 
-Changed parts:
+Changed stock parts:
 
 - SB Cover
 - Chain Anchor
