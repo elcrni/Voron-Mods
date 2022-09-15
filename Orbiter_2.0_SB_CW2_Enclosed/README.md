@@ -36,4 +36,4 @@ STL File naming:
 
 ## Images
 
-![1](/Images/Orbiter_2.0_SB_CW2_Enclosed__006.jpg)
+![1](/Orbiter_2.0_SB_CW2_Enclosed/Images/Orbiter_2.0_SB_CW2_Enclosed__006.jpg)
