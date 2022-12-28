@@ -15,6 +15,8 @@ Changed stock parts:
 ## Changelog
 15.09.2022.
 Initial Release
+28.12.2022.
+Added support for EBB36 CAN, beta files for testing can be downloaded from here: https://layerguru.com/wp-content/uploads/2022/12/EBB36_SB_Orbiter_R1.zip 
 
 ## Why?
 
