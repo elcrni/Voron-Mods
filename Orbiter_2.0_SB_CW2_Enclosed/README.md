@@ -4,7 +4,7 @@
 
 ## Important Note:
 
-**All Stealthburner/CW2 parts have been changed to accomodate Orbiter extruder, meaning that no stock parts can be used for the mount. Hot end mounts and X-Rail carriage did not change, stock parts can be used here.**
+**All Stealthburner/CW2 parts have been changed to accomodate Orbiter extruder, meaning that no stock parts can be used for the mount. Hot end mounts and X-Rail carriage did not change, stock parts can be used here. This mount is compatible with Voron TAP**
 
 Changed stock parts:
 
@@ -18,6 +18,9 @@ Initial Release
 
 28.12.2022.
 Added support for EBB36 CAN, beta files for testing can be downloaded from here: https://layerguru.com/wp-content/uploads/2022/12/EBB36_SB_Orbiter_R1.zip 
+
+Added support for Cw2/hartk PCB, beta files for testing can be downloaded from here:
+https://layerguru.com/wp-content/uploads/2022/12/Orbiter_2_SB_PCB_mount.zip
 
 ## Why?
 
