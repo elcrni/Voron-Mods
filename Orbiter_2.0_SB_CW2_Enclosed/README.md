@@ -17,6 +17,7 @@ Changed stock parts:
 Initial Release
 
 28.12.2022.
+
 Added support for EBB36 CAN, beta files for testing can be downloaded from here: https://layerguru.com/wp-content/uploads/2022/12/EBB36_SB_Orbiter_R1.zip 
 
 Added support for Cw2/hartk PCB, beta files for testing can be downloaded from here:
