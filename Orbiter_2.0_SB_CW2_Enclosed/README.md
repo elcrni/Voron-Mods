@@ -20,8 +20,7 @@ Initial Release
 
 Added support for EBB36 CAN, beta files for testing can be downloaded from here: https://layerguru.com/wp-content/uploads/2022/12/EBB36_SB_Orbiter_R1.zip 
 
-Added support for Cw2/hartk PCB, beta files for testing can be downloaded from here:
-https://layerguru.com/wp-content/uploads/2022/12/Orbiter_2_SB_PCB_mount.zip
+Added support for CW2/hartk PCB, beta files for testing can be downloaded from here: new/improved models comming shortly
 
 ## Why?
 
