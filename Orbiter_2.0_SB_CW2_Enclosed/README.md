@@ -1,6 +1,8 @@
+![quality_footer_01](https://user-images.githubusercontent.com/74976689/211813069-14bc61b6-7e83-4545-9fdf-7c2d451e0e5c.jpg)
+
 #### Get this mod printed in PCCF from [LayerGURU](https://layerguru.com/product/voron-stealthburner-orbiter-2-0/).
 
-## Orbiter 2.0 Stealthburner mount with CW2 shroud
+## Orbiter 2.0 Stealthburner mount with CW2 shroud, PCB and EBB36 Support
 
 ## Important Note:
 
@@ -18,9 +20,9 @@ Initial Release
 
 28.12.2022.
 
-Added support for EBB36 CAN, beta files for testing can be downloaded from here: https://layerguru.com/wp-content/uploads/2022/12/EBB36_SB_Orbiter_R1.zip 
+Added support for EBB36 CAN
 
-Added support for CW2/hartk PCB, beta files for testing can be downloaded from here: https://layerguru.com/wp-content/uploads/2022/12/Orbiter_2_SB__PCB.zip
+Added support for CW2/hartk PCB
 
 ## Why?
 
