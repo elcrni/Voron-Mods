@@ -15,10 +15,10 @@ Changed stock parts:
 - Cable Cover
 
 ## Changelog
-15.09.2022.
+**15.09.2022.**
 Initial Release
 
-28.12.2022.
+**28.12.2022.**
 
 Added support for EBB36 CAN
 
