@@ -24,6 +24,8 @@ Added support for EBB36 CAN
 
 Added support for CW2/hartk PCB
 
+Fixed issues with part cooling fant and orbiter touching
+
 ## Why?
 
 Well, why not!? 👍
