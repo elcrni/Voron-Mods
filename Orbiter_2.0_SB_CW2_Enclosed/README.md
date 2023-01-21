@@ -39,7 +39,7 @@ All parts are printed without supports. Recommended material is PCCF, why? Well,
 
 Pretty much standard hardware as for the stock Stealthburner
 
-- 3x M3x26mm
+- 3x M3x25mm
 - 1x M3x8mm
 - 1x M3x12mm
 - 1x M3x20 - Tensioner screw
