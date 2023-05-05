@@ -78,4 +78,8 @@ Pretty much standard hardware as for the stock Stealthburner
 
 ![1](/Orbiter_2.0_SB_CW2_Enclosed/Images/Orbiter_2.0_SB_CW2_Enclosed__002.jpg)
 
+P.S. These elements visible in the CAD are leftovers from early testing stage, these are NOT needed as the EEB36 PCB is held by the umbilical anchor!
+![image](https://user-images.githubusercontent.com/74976689/236455839-efc96d1c-4cca-4bc2-8c47-83b186b691b5.png)
+
+
 #### Support my work and Get this mod printed in PCCF or ASA from [LayerGURU](https://layerguru.com/product/voron-stealthburner-orbiter-2-0/).
