@@ -27,6 +27,7 @@ Added support for CW2/hartk PCB
 Fixed issues with part cooling fant and orbiter touching
 
 **05.05.2023.**
+
 Fixed heatsink insert holes on front body, rear body and PCB mount.
 Minor filleting fixes
 
