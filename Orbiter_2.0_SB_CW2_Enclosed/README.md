@@ -33,7 +33,7 @@ Minor filleting fixes
 
 **11.06.2023.**
 
-Added support for Rapido UHF - Thanks to [bythorsthunder]([https://layerguru.com/product/voron-stealthburner-orbiter-2-0/](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/bythorsthunder/Stealthburner_Rapido_Uhf))
+Added support for Rapido UHF - Thanks to [bythorsthunder](https://layerguru.com/product/voron-stealthburner-orbiter-2-0/](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/bythorsthunder/Stealthburner_Rapido_Uhf)
 Please note: Both the cover and the Rapido UHF front mount have been changed to fit Orbiter 2.0 mod!
 
 ## Why?
