@@ -2,7 +2,7 @@
 
 #### Support my work and Get this mod printed in PCCF or ASA from [LayerGURU](https://layerguru.com/product/voron-stealthburner-orbiter-2-0/).
 
-## VORON Trident PG7 Umbilical Mod by elcrni - LAYERGURU.com
+## VORON Trident PG7 Umbilical Mod by elcrni/layerguru
 
 ## Important Note:
 
@@ -14,7 +14,7 @@ Initial Release
 
 ## Why?
 
-All my printer eventually had broken wire in drag chains issues after some 6-10k hours of printing, switching to umbilical solved the issue. All my printers use traditional umbilical, no CAN boards.
+All my printer eventually had broken wires in drag chains after some 6-10k hours of printing, switching to umbilical solved the issue completely. All my printers use traditional umbilical, no CAN boards.
 
 ## Print Setup
 
@@ -25,14 +25,10 @@ STL File naming:
 
 ## BOM
 
-- 8x F688zz Flange Radial Ball Bearing 8 x 16mm
-- 2x 8x100mm linear guide
-- 12x M3x4mm countersunk screws (M3x6 BHCS or SHCS screws can be used as well)
-- 18x M3x4x5 Brass Heat Inserts
-- 2x M5x16mm
-- 2x M5x10mm
-- 4x M5 T-Nut (Regular or Hammerhead)
-- 6x M3x8mm
+- 2x PG7 Gland
+- 2x M5x16
+- 2x M5x10
+- Zip Ties
 
 ## Images
 
