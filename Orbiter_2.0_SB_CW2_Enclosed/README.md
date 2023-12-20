@@ -36,6 +36,10 @@ Minor filleting fixes
 Added support for Rapido UHF - Thanks to [bythorsthunder](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/bythorsthunder/Stealthburner_Rapido_Uhf)
 Please note: Both the cover and the Rapido UHF front mount have been changed to fit Orbiter 2.0 mod!
 
+**20.12.2023.**
+
+Fron cover (main body) redesigned and is now deeper to eliminate any gap duo to the part cooling fan
+
 ## Why?
 
 Well, why not!? 👍
