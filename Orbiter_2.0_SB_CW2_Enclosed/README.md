@@ -15,8 +15,20 @@ Changed stock parts:
 - Cable Cover
 
 ## Changelog
-**15.09.2022.**
-Initial Release
+**20.12.2023.**
+
+Front cover (main body) redesigned and is now deeper to eliminate any gap due to the part cooling fan. This is the only part that needs re-printing.
+
+**11.06.2023.**
+
+Added support for Rapido UHF - Thanks to [bythorsthunder](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/bythorsthunder/Stealthburner_Rapido_Uhf)
+Please note: Both the cover and the Rapido UHF front mount have been changed to fit Orbiter 2.0 mod!
+
+
+**05.05.2023.**
+
+Fixed heatsink insert holes on front body, rear body and PCB mount.
+Minor filleting fixes
 
 **28.12.2022.**
 
@@ -26,19 +38,15 @@ Added support for CW2/hartk PCB
 
 Fixed issues with part cooling fant and orbiter touching
 
-**05.05.2023.**
+**15.09.2022.**
+Initial Release
 
-Fixed heatsink insert holes on front body, rear body and PCB mount.
-Minor filleting fixes
 
-**11.06.2023.**
 
-Added support for Rapido UHF - Thanks to [bythorsthunder](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/bythorsthunder/Stealthburner_Rapido_Uhf)
-Please note: Both the cover and the Rapido UHF front mount have been changed to fit Orbiter 2.0 mod!
 
-**20.12.2023.**
 
-Fron cover (main body) redesigned and is now deeper to eliminate any gap duo to the part cooling fan
+
+
 
 ## Why?
 
