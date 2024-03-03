@@ -2,7 +2,7 @@
 
 #### Support my work and Get this mod printed in PCCF or ASA from [LayerGURU](https://layerguru.com/product/voron-stealthburner-orbiter-2-0/).
 Or consider maling a small donation by following the link below:
-https://www.paypal.com/donate/?hosted_button_id=JEFNGBEDW79CC
+####[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=JEFNGBEDW79CC)
 
 ## Orbiter 2.0 Stealthburner mount with CW2 shroud, PCB and EBB36 Support
 
